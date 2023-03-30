@@ -1,1 +1,1 @@
-# training-content
+# boilerplate
